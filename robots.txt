@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://panarinx.github.io/sitemap.html.gz
+Sitemap: https://panarinx.github.io/app/sitemap.html.gz
+Sitemap: https://panarinx.github.io/assets/sitemap.html.gz
+Sitemap: https://panarinx.github.io/css/sitemap.html.gz
+Sitemap: https://panarinx.github.io/includes/sitemap.html.gz
+Sitemap: https://panarinx.github.io/item/sitemap.html.gz
+Sitemap: https://panarinx.github.io/src/sitemap.html.gz
